@@ -56,3 +56,26 @@ Prem
 ---
 
 Feel free to personalize this further to better reflect your experiences and thoughts.
+
+
+
+
+
+Function ExtractName(text As String) As String
+    Dim startPos As Long
+    Dim endPos As Long
+    Dim name As String
+    
+    ' Find the position of the hyphen before the name and the subsequent hyphen after the name
+    startPos = InStr(text, "-") + 1
+    endPos = InStr(startPos, text, "---")
+    
+    ' Extract the name
+    If startPos > 1 And endPos > 0 Then
+        name = Mid(text, startPos, endPos - startPos)
+    Else
+        name = "Name not found"
+    End If
+    
+    ExtractName = Trim(name)
+End Function
