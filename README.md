@@ -80,75 +80,35 @@ Function ExtractName(text As String) As String
     ExtractName = Trim(name)
 End Function
 
-	Client name: company A
-	Account number: 0123456789NPR and 0123456788NPR
-	Relationship number: 01111111
-	Product Code:  CURRENT ACCOUNT and CURRENT ACCOUNT
-	Account Open Date: 02/01/1994 and 28/06/2023 
-	Segment Code: CLIENT RELATIONSHIP
-	Incorporated Date: 09/10/2001
-	LOB: MNFG:GRAIN MILL PRODS. & SERVS
+-	The client NEPAL HEALTH RESEARCH COUNCIL is into HEALTH SERVICES (NEC) and The client was previously developed as a commitment of Nepal Government to promote scientific study and quality research in health sector of Nepal. It started as Nepal Health Research Committee only under the Ministry of Health and Population, which is chaired by the General Secretary of Health Ministry in 1982 A.D. Later, the committee was officially formed and developed into Nepal Health Research Council (NHRC). It is incorporated on 1991/06/06 A.D. under Ministry of Health and Population. It is developed as the only national apical body for promoting health research across the country. It conducts research in the various fields relating to health within the Nepal aligning with the health priorities identified in the National Health Policy of the Government of Nepal.
 
-Nature of Business
-Company A is well established player in the food grain industry in Nepal. Management possesses substantial experience, acumen and competence in production/sales and distribution of branded rice, atta and suji and pulses in Nepal. company A has chakki plant which process wheat to manufacture wheat flour, suji and choker. They also have milling plant to process various categories of paddy which are manufactured into various kinds of rice mainly basmati, mansuli sona mansuli and jeera mansuli. They also use milling plant to process pulses. Consumer packes are sold under the brand name of Hulas which enjoys good reputation and are synonymous to good quality. Annual Turnover 300Million
+-	The triggered credits are identified to be Cash deposit credits, inward wire transfer credit, IBFT credits, IPS return credits, Cheque credits, IT credit, received in 19 counts during the period 07/07/2024 to 19/07/2024 in the account 18001854606NPR and 18001854609NPR.  
 
--	Reviewed Credits in the account 0123456789NPR:
+-	The triggered debits are identified to be Cheque debits and STS debits made in 112 counts during the period 07/07/2024 to 19/07/2024 from the accounts 18001854606NPR and 18001854609NPR.
 
--	Self RTGS credits of total of NPR 63,300,000.00 in 05 counts received during the period 30/06/2024 to 15/08/2024
+-	As per DCUBE, NHRC conducts various training workshops in Health Systems Research Methodology, Research Management and other fields of research. It is also engaged in developing and conducting collaborative research in collaboration with research institutions/agencies/ organizations located within and outside country. It also provides technical guidance and possible support including services for scientists, researchers and Current Account to route funds received from various INT'L institute, party and local individuals for research and to mobilize the fund to meet research related field expenses and various connected party payment.
 
--	Self IBFT credits of total of NPR 4,660,000.00 in 04 counts received during the period 01/07/2024 to 16/08/2024
+-	Reviewed Credits in the Account 18001854606NPR:
 
--	The above credits are utilised as follows (Significant utilisation considered)
+-	Inward wire transfer credit from BINYOJAN KHATA received in 01 count on 07/07/2024 where BINYOJAN KHATA translates to “planning account” thus the funds could be allocated for specific health research projects or public health initiatives for the purpose to meet research related field expenses.
+  
+-	Reviewed Debits in the Account 18001854606NPR:
 
-	loan repayment debits of total of NPR 59,874,880.18 in 03 counts made during the period 16/07/2024 to 15/08/2024 from the account 01025786901NPR.
-	Self RTGS debit of NPR 14,000,000.00 in 01 count made on 17/07/2024 
+-	Cheque debits towards KOS TATHA LEKHA NIYANTRAK KARYALAYA made in 02 counts on 09/07/2024 where KOS TATHA LEKHA NIYANTRAK KARYALAYA translates to “OFFICE OF THE CONTROLLER OF FUNDS AND ACCOUNTS” it is a government agency under ministry of finance. Based on the transaction review, it appears to be government budget release for programs to meet research related field expenses.
 
--	Reviewed Credits in the account 0123456788NPR:
+-	The source for the triggered debits is noted to be triggered credits and further source is noted to be following credits
 
--	Self IBFT credits of total of NPR 6,000,000.00 in 03 counts received on 27/06/2024
+-	Inward wire transfer credits from BINYOJAN KHATA received in 02 counts on 28/06/2024 and 30/06/2024 where BINYOJAN KHATA translates to “planning account” thus the funds could be allocated for specific health research projects or public health initiatives for the purpose to meet research related field expenses.
 
--	Self Inward wire transfer credits of total of NPR 8,800,000.00 in 02 counts received on 03/07/2024 and 09/07/2024 
+-	As per previous case CA8008748 RM Response, purpose of the Cheque deposit from TREASURY ACCOUNT CONTROL OFFICE is Third qtr instalment release from Government of Nepal to carry out their regular activities and programs
 
--	The triggered credits are utilised as triggered debit.
+-	Thus, Cheque credit from TREASURY ACCOUNT CONTROL OFFICE received in 01 count on 21/03/2024 appears to be instalment release from Government of Nepal to carry out their regular activities and programs.
 
--	The triggered debit is of NPR 20,000,000.00 in 01 count which is identified to be self RTGS debit made on 15/07/2024 from the account 01025786902NPR.
+-	There were other transactions triggered such as STS debits towards multiple counterparties for the purpose of Allowances, and project related expenses, however the transactions are insignificant in values when compare with significant transaction values and appears to be made for operational purposes hence not reviewed further.
 
--	Case Disposition:
--	-	As per ECCD, Source of Income of the company is from Income generated from sale of paddy, wheat & pulses
-  -	-	Reviewed Credits in the account 01025786901NPR:
-
--	Self RTGS credits received in 05 counts during the period 30/06/2024 to 15/08/2024 
-
--	Self IBFT credits received in 04 counts during the period 01/07/2024 to 16/08/2024 
-
--	Where the above self RTGS and IBFT credits are incurred to be routing their business collection, hence no concerns noted.
-
--	The above credits are utilised as follows (Significant utilisation considered)
-
-	loan repayment debits made in 03 counts during the period 16/07/2024 to 15/08/2024 from the account 01025786901NPR which are incurred to be repayment of loan availed and it is normal for an entity involved in such transactions hence no concerns noted.
-	Self RTGS debit towards client’s other bank account made in 01 count on 17/07/2024 which are incurred to be made for business and operational expenses. 
-
--	Reviewed Credits in the account 01025786902NPR:
-
--	Self IBFT credits received in 03 counts on 27/06/2024
-
--	Self-Inward wire transfer credits received in 02 counts on 03/07/2024 and 09/07/2024 
-
--	Where the above self RTGS and Inward wire transfer credits are incurred to be routing their business collection, hence no concerns noted.
-
--	The triggered credits are utilised as triggered debit.
-
--	The triggered debit is identified to be self RTGS debit towards client’s other bank account made in 01 count on 15/07/2024 from the account 01025786902NPR which are incurred to be made for business and operational expenses.
-
--	Hence, based on review of transactions and client’s Annual Turnover of the client NPR 300Million and ECDD viewer profile, the transactions are within the profile and the transactions. Hence, no further risks associated.
-
--	Though the transaction triggered for DS Transaction in Round Amount triggered to monitor accounts/entities that conduct fund transfers (or money instrument) in round amounts and meet the specified threshold and FTN CU/EN - Patterns of Fund Transfers between Customers & External Entities: triggered to monitor exclusive relationships between customers and external entity which are self transfers, upon reviewing the current set of transactions, as the transactions were related to operational and business purpose such transactions are considered normal & expected and the transactions are well within the client’s annual turnover NPR 300Million, This mitigates the risk associated with the triggered transactions & DS.
+-	Though the transaction triggered for DS Large Reportable Transactions got triggered due to significant value transactions made in the account, upon reviewing the triggered and associated transactions, major source is government funding and utilization is towards government health projects/ research activities, salary, operational and administrational expenses. The source and purpose of the triggered transactions are clear and transactions performed are within the annual turnover NPR 375,000,000. therefore, the triggered DS are mitigated.
 
 -	There are no concerns to be raised at the moment with the triggered transactions.
 
 -	Hence, based on the above findings and observations, the case is closed as Risk Irrelevant.
-
-  -	
-
-
 
