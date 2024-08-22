@@ -80,35 +80,4 @@ Function ExtractName(text As String) As String
     ExtractName = Trim(name)
 End Function
 
--	The client NEPAL HEALTH RESEARCH COUNCIL is into HEALTH SERVICES (NEC) and The client was previously developed as a commitment of Nepal Government to promote scientific study and quality research in health sector of Nepal. It started as Nepal Health Research Committee only under the Ministry of Health and Population, which is chaired by the General Secretary of Health Ministry in 1982 A.D. Later, the committee was officially formed and developed into Nepal Health Research Council (NHRC). It is incorporated on 1991/06/06 A.D. under Ministry of Health and Population. It is developed as the only national apical body for promoting health research across the country. It conducts research in the various fields relating to health within the Nepal aligning with the health priorities identified in the National Health Policy of the Government of Nepal.
-
--	The triggered credits are identified to be Cash deposit credits, inward wire transfer credit, IBFT credits, IPS return credits, Cheque credits, IT credit, received in 19 counts during the period 07/07/2024 to 19/07/2024 in the account 18001854606NPR and 18001854609NPR.  
-
--	The triggered debits are identified to be Cheque debits and STS debits made in 112 counts during the period 07/07/2024 to 19/07/2024 from the accounts 18001854606NPR and 18001854609NPR.
-
--	As per DCUBE, NHRC conducts various training workshops in Health Systems Research Methodology, Research Management and other fields of research. It is also engaged in developing and conducting collaborative research in collaboration with research institutions/agencies/ organizations located within and outside country. It also provides technical guidance and possible support including services for scientists, researchers and Current Account to route funds received from various INT'L institute, party and local individuals for research and to mobilize the fund to meet research related field expenses and various connected party payment.
-
--	Reviewed Credits in the Account 18001854606NPR:
-
--	Inward wire transfer credit from BINYOJAN KHATA received in 01 count on 07/07/2024 where BINYOJAN KHATA translates to “planning account” thus the funds could be allocated for specific health research projects or public health initiatives for the purpose to meet research related field expenses.
-  
--	Reviewed Debits in the Account 18001854606NPR:
-
--	Cheque debits towards KOS TATHA LEKHA NIYANTRAK KARYALAYA made in 02 counts on 09/07/2024 where KOS TATHA LEKHA NIYANTRAK KARYALAYA translates to “OFFICE OF THE CONTROLLER OF FUNDS AND ACCOUNTS” it is a government agency under ministry of finance. Based on the transaction review, it appears to be government budget release for programs to meet research related field expenses.
-
--	The source for the triggered debits is noted to be triggered credits and further source is noted to be following credits
-
--	Inward wire transfer credits from BINYOJAN KHATA received in 02 counts on 28/06/2024 and 30/06/2024 where BINYOJAN KHATA translates to “planning account” thus the funds could be allocated for specific health research projects or public health initiatives for the purpose to meet research related field expenses.
-
--	As per previous case CA8008748 RM Response, purpose of the Cheque deposit from TREASURY ACCOUNT CONTROL OFFICE is Third qtr instalment release from Government of Nepal to carry out their regular activities and programs
-
--	Thus, Cheque credit from TREASURY ACCOUNT CONTROL OFFICE received in 01 count on 21/03/2024 appears to be instalment release from Government of Nepal to carry out their regular activities and programs.
-
--	There were other transactions triggered such as STS debits towards multiple counterparties for the purpose of Allowances, and project related expenses, however the transactions are insignificant in values when compare with significant transaction values and appears to be made for operational purposes hence not reviewed further.
-
--	Though the transaction triggered for DS Large Reportable Transactions got triggered due to significant value transactions made in the account, upon reviewing the triggered and associated transactions, major source is government funding and utilization is towards government health projects/ research activities, salary, operational and administrational expenses. The source and purpose of the triggered transactions are clear and transactions performed are within the annual turnover NPR 375,000,000. therefore, the triggered DS are mitigated.
-
--	There are no concerns to be raised at the moment with the triggered transactions.
-
--	Hence, based on the above findings and observations, the case is closed as Risk Irrelevant.
-
+-	
