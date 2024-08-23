@@ -81,3 +81,5 @@ Function ExtractName(text As String) As String
 End Function
 
 -	
+
+=MID(A1, FIND("-", A1) + 1, FIND("-", A1, FIND("-", A1) + 1) - FIND("-", A1) - 1)
