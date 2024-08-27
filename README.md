@@ -3,6 +3,8 @@ Prem’s inquisitiveness and willingness to gain experience in other NCB countri
 
 This transaction is a routine part of the client’s operations as a broker-dealer and fund manager. The debit reflects the transfer of proceeds from a completed sell trade to GSIS, aligning with the client's business activities. No unusual or suspicious behavior is noted, making the transaction consistent with expected financial activities in this sector.
 
+This transaction is a standard payroll activity, where the client is compensating an employee for services rendered in April. It aligns with the expected operational expenses of a business in the broadcasting industry, making it a routine and non-suspicious transaction
+
 Certainly! Here’s a draft for your thank you reply:
 
 ---
