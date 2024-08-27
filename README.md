@@ -1,5 +1,6 @@
 Prem’s inquisitiveness and willingness to gain experience in other NCB countries has helped him to get cross trained. His support to the cross trained countries helped us manage volumes within defined SLAs, especially for the markets where there was deficit in HCT due to high % of attrition. His process expertise has helped him to process cases with expected quality and throughput, as a result of which, his RR% stands at (95%) and TP(100%). He consistently exhibits #neversettle and #dotherightthing valued behaviour that the bank stands on
 
+These transactions are part of the bank's routine settlement processes, where funds are temporarily held in a suspense account until the settlement is completed. Such activities are standard in banking operations and do not indicate any irregular or suspicious behavior. The transactions align with the bank's role in managing and settling financial transactions
 
 This transaction is a routine part of the client’s operations as a broker-dealer and fund manager. The debit reflects the transfer of proceeds from a completed sell trade to GSIS, aligning with the client's business activities. No unusual or suspicious behavior is noted, making the transaction consistent with expected financial activities in this sector.
 
