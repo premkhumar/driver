@@ -1,5 +1,33 @@
 Prem’s inquisitiveness and willingness to gain experience in other NCB countries has helped him to get cross trained. His support to the cross trained countries helped us manage volumes within defined SLAs, especially for the markets where there was deficit in HCT due to high % of attrition. His process expertise has helped him to process cases with expected quality and throughput, as a result of which, his RR% stands at (95%) and TP(100%). He consistently exhibits #neversettle and #dotherightthing valued behaviour that the bank stands on
 
+Rationale for Mitigation (RBA):
+Change in Transaction Pattern:
+
+Decline in Business Transactions: The current case shows a decline in the pattern of business transactions over the personal account, indicating a shift in behavior, potentially showing the client has corrected previous practices after being flagged.
+Redirection of Funds: Funds are now received from the client’s business and are directed towards the client’s father, suggesting a different purpose or use of funds compared to the previous pattern.
+Source of Funds:
+
+Legitimate Source: The funds received from the client’s company could be incurred as salary, business income, or dividends, which are legitimate sources of income for the client. This reduces the risk compared to funds being used directly for business transactions over a personal account.
+Utilization of Funds:
+
+Personal Purpose: The funds are utilized towards the client’s father, which is likely for personal financial support, repayment, or similar purposes. This personal nature of the transaction is different from business-related transactions, reducing the associated risk.
+Family Relationship: Transactions directed towards a family member (father) are generally considered lower-risk, especially when they align with the client’s financial profile and obligations.
+Context of Previous Case:
+
+BTOPA 1st Instance: The previous case was closed as BTOPA on the first instance, indicating the client was informed of the issue. The change in transaction patterns suggests that the client may have adjusted their behavior to comply with best practices.
+Risk Mitigation Steps:
+
+Monitor for Recurrence: Continue to monitor the account for any signs of recurrence of business transactions over the personal account, as this could indicate a return to non-compliant behavior.
+Verification of Transactions: Confirm that the funds received as salary, business income, or dividends are consistent with the client’s role in the company and are legitimate. Verify that the subsequent transfers to the client’s father are appropriate and align with the client’s financial responsibilities.
+Documentation and Compliance:
+
+Client Communication: Consider reinforcing with the client the importance of maintaining a clear separation between business and personal accounts to avoid future issues.
+Document the Change: Clearly document the shift in transaction patterns and the rationale for considering the current transactions as lower risk, focusing on the legitimate source of funds and their appropriate use.
+Conclusion:
+With the source of funds being legitimate (salary, business income, or dividends) and their utilization for a personal purpose (support to the client’s father), the transactions appear to be consistent with the client’s financial profile and obligations. This change indicates a reduced risk compared to the previous case.
+
+Decision: With proper documentation and continued monitoring, the current case could be mitigated as risk irrelevant, assuming the personal nature of the transactions is verified and aligns with the client’s overall financial profile.
+
 These transactions are part of the bank's routine settlement processes, where funds are temporarily held in a suspense account until the settlement is completed. Such activities are standard in banking operations and do not indicate any irregular or suspicious behavior. The transactions align with the bank's role in managing and settling financial transactions
 
 This transaction is a routine part of the client’s operations as a broker-dealer and fund manager. The debit reflects the transfer of proceeds from a completed sell trade to GSIS, aligning with the client's business activities. No unusual or suspicious behavior is noted, making the transaction consistent with expected financial activities in this sector.
